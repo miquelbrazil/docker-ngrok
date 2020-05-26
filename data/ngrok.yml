@@ -16,6 +16,6 @@ web_addr: 0.0.0.0:4040
 tunnels:
     lpflow:
       proto: http
-      addr: 80
+      addr: localhost:80
       subdomain: lpflow
       host_header: lpflow.local
