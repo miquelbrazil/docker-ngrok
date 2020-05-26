@@ -18,4 +18,4 @@ tunnels:
       proto: http
       addr: 80
       subdomain: lpflow
-      hostname: lpflow.local
+      host_header: lpflow.local
