@@ -13,10 +13,9 @@ log: stdout
 #update: false
 #update_channel: stable
 web_addr: 0.0.0.0:4040
-# testing loading custom yml settings
-#tunnels:
-#    lpflow:
-#      proto: http
-#      addr: 80
-#      subdomain: lpflow
-#      hostname: lpflow.local
+tunnels:
+    lpflow:
+      proto: http
+      addr: 80
+      subdomain: lpflow
+      hostname: lpflow.local
