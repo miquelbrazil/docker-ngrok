@@ -1,4 +1,3 @@
-# testing loading custom yml settings
 #authtoken: 3FqC8NZYFm3FCTnq31YP_4PVTJD76Ugzejfn5Eq49A
 #region: us
 #console_ui: true
@@ -14,6 +13,7 @@ log: stdout
 #update: false
 #update_channel: stable
 web_addr: 0.0.0.0:4040
+# testing loading custom yml settings
 #tunnels:
 #    lpflow:
 #      proto: http
